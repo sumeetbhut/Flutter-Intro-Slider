@@ -1,6 +1,6 @@
 # Flutter Intro Slider App
 
-theFlutterBlog - Flutter Get Phone Contacts
+theFlutterBlog - Flutter Intro Slider
 
 ## Getting Started
   
